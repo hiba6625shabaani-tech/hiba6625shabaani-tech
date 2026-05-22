@@ -17,4 +17,4 @@ I am a **Software Engineering Student** passionate about crafting elegant design
 
 ### 📊 My GitHub Stats
 
-![Hiba's Stats](https://github-readme-stats.vercel.app/api?username=hiba6625shabaani-tech&show_icons=true&theme=radical&color_stat=e63946&color_title=e63946&hide_border=true)
+![Hiba's Stats](https://github-readme-stats.vercel.app/api?username=hiba6625shabaani-tech&show_icons=true&title_color=E63946&icon_color=E63946&text_color=ffffff&bg_color=0d1117&hide_border=true)
