@@ -24,4 +24,4 @@ I am a **Software Engineering Student** passionate about crafting elegant design
 ### 🌐 Visit My Live Portfolio
 Click on the image below to explore my live interactive website:
 
-[![Hiba Portfolio](https://i.ibb.co/680L93h/generated-image.jpg)](https://hiba6625shabaani-tech.github.io/Hiba-PersonalProfile/)
+[![Hiba Portfolio](portfolio-preview.jpg)](https://hiba6625shabaani-tech.github.io/Hiba-PersonalProfile/)
