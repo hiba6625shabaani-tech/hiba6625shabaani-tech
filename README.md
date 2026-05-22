@@ -17,11 +17,11 @@ I am a **Software Engineering Student** passionate about crafting elegant design
 
 ### 📊 My GitHub Stats
 
-![Hiba's Stats](https://github-readme-stats.vercel.app/api?username=hiba6625shabaani-tech&show_icons=true&title_color=E63946&icon_color=E63946&text_color=ffffff&bg_color=0d1117&hide_border=true)
+![Hiba's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hiba6625shabaani-tech&show_icons=true&title_color=E63946&icon_color=E63946&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
 ---
 
 ### 🌐 Visit My Live Portfolio
+اضغطي على الصورة بالأسفل لزيارة موقعي التفاعلي مباشرة:
 
-[![Hiba Portfolio]<img width="1360" height="727" alt="image" src="https://github.com/user-attachments/assets/a903dd67-9cbc-4a2c-8336-9f6ab6c01e63" />
-](https://hiba6625shabaani-tech.github.io/Hiba-PersonalProfile/)
+[![Hiba Portfolio](https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80)](https://hiba6625shabaani-tech.github.io/Hiba-PersonalProfile/)
